@@ -1,2 +1,5 @@
 # landing-page
-a simple landing page
+
+A simple landing page.
+
+
